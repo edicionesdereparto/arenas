@@ -1,16 +1,16 @@
 # Built with Jekyll 3.6.0
 
 # Site Metadata
-title:               "Poesía de Juana Borrero"
-tagline:             "(1877-1896)"
-description:         "Una colección de los poemas de Juana Borrero, pintora y poeta modernista cubana."
+title:               "Obra de Reinaldo Arenas"
+tagline:             "(1943-1990)"
+description:         "Un repositorio de la obra literaria de Reinaldo Arenas"
 url:                 "https://edicionesdereparto.github.io"
-baseurl:             "/juanaborrero" # Adjust to match your GitHub repository name if it's hosted in a subdirectory.
+baseurl:             "/arenas" # Adjust to match your GitHub repository name if it's hosted in a subdirectory.
 
 # About/Contact Information
 author:
   name:              "Luis Prieto"
-  url:               "https://edicionesdereparto.github.io/juanaborrero"
+  url:               "https://edicionesdereparto.github.io/arenas"
   email:             "lpriet9@gmail.com"
 
 # Color Scheme for the Theme (Options: red, orange, magenta, cyan, blue, brown)
@@ -18,7 +18,7 @@ color-scheme:
 
 # Permalinks Configuration
 permalink: pretty
-permalink:           "/:juana/:poemas/" 
+permalink:           "/:arenas/:obra/" 
 
 # Site Encoding
 encoding:            "utf-8"
